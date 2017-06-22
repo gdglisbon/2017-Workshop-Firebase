@@ -1,0 +1,11 @@
+http://www.json-generator.com/
+
+{"alerts":
+	[
+      '{{repeat(10, 20)}}',
+      {
+        latitude: '{{floating(39, 40)}}',
+        longitude: '{{floating(-8.7, -7.5)}}'
+      }
+	]
+}
